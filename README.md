@@ -6,3 +6,5 @@ This application is about having a button. Once clicked, the ripple effect is ap
 
 
 ## Application Preview
+
+![gif preview](assets/ripple-button.gif)
